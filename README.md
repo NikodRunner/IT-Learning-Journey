@@ -19,10 +19,10 @@ I am currently studying Computing Skills for the Workplace and working towards a
 - [x] MAC Spoofing
 - [x] ICMP
 - [x] Ping
-- [ ] DNS
-- [ ] DHCP
-- [ ] ARP
-- [ ] OSI Model
+- [x] DNS
+- [x] DHCP
+- [x] ARP
+- [x] OSI Model
 ## Goal
 
 Build practical IT, networking and cybersecurity skills and transition into an IT career.
