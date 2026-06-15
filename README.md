@@ -23,6 +23,12 @@ I am currently studying Computing Skills for the Workplace and working towards a
 - [x] DHCP
 - [x] ARP
 - [x] OSI Model
+
+Completed Networking Lab #2:
+- Public IP vs Private IP
+- IPv4 vs IPv6
+- Default Gateway
+  
 ## Goal
 
 Build practical IT, networking and cybersecurity skills and transition into an IT career.
