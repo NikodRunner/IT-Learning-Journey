@@ -1,8 +1,13 @@
-# IT Learning Journey
-
-Hello, I'm Nikod.
+# Hello, I'm Nikod 👋
 
 I am currently studying Computing Skills for the Workplace and working towards a career in IT.
+
+## About Me
+
+- Computing Skills for the Workplace student
+- Building practical IT and networking skills
+- Interested in Networking, Cybersecurity, IT Support and Web Development
+- Learning through labs, self-study and hands-on projects
 
 ## Current Learning Topics
 
@@ -13,22 +18,58 @@ I am currently studying Computing Skills for the Workplace and working towards a
 
 ## Networking Progress
 
-- [x] What is Networking
-- [x] IP Address
-- [x] MAC Address
-- [x] MAC Spoofing
-- [x] ICMP
-- [x] Ping
-- [x] DNS
-- [x] DHCP
-- [x] ARP
-- [x] OSI Model
+### Fundamentals
 
-Completed Networking Lab #2:
+- What is Networking
+- IP Address
+- MAC Address
 - Public IP vs Private IP
 - IPv4 vs IPv6
 - Default Gateway
-  
-## Goal
 
-Build practical IT, networking and cybersecurity skills and transition into an IT career.
+### Network Services
+
+- DNS
+- DHCP
+- ARP
+
+### Troubleshooting & Diagnostics
+
+- ICMP
+- Ping
+
+### Security Concepts
+
+- MAC Spoofing
+
+### Network Models
+
+- OSI Model
+
+## Labs Completed
+
+### Networking Lab #1
+
+- IP Address
+- MAC Address
+- ICMP
+- Ping
+- DNS
+
+### Networking Lab #2
+
+- Public IP vs Private IP
+- IPv4 vs IPv6
+- Default Gateway
+
+## Certifications
+
+### Cisco Networking Academy
+
+- Getting Started with Cisco Packet Tracer
+- Completed: June 2026
+- Score: 100%
+
+## Current Goal
+
+Build practical IT, networking and cybersecurity skills, complete my studies, and transition into my first IT role.
