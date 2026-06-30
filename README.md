@@ -73,3 +73,59 @@ I am currently studying Computing Skills for the Workplace and working towards a
 ## Current Goal
 
 Build practical IT, networking and cybersecurity skills, complete my studies, and transition into my first IT role.
+
+# Progress Update - June 2026
+
+## Operating Systems
+- Windows 11
+- Kali Linux (VirtualBox)
+- Linux Terminal Basics
+
+## Networking
+- IP Address
+- MAC Address
+- Public vs Private IP
+- IPv4 vs IPv6
+- Default Gateway
+- DNS
+- DHCP
+- ARP
+- ICMP
+- Ping
+- HTTP vs HTTPS
+- HTTP Request Methods (GET / POST)
+- HTTP Status Codes (2xx, 3xx, 4xx, 5xx)
+- OSI Model
+
+## Linux Skills
+- pwd
+- ls
+- cd
+- mkdir
+- touch
+- cat
+- cp
+- mv
+- rm
+- chmod
+- ps
+- kill
+- sudo
+- apt update
+- apt upgrade
+- groups
+- pipes (|)
+- basic file permissions
+
+## Tools
+- GitHub
+- Git
+- VirtualBox
+- Kali Linux
+- Cisco Packet Tracer
+- Nmap
+- Windows Terminal
+- VS Code (coming soon)
+
+## Current Goal
+Become a Junior Cybersecurity Professional.
