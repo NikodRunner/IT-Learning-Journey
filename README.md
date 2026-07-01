@@ -124,6 +124,31 @@ Build practical IT, networking and cybersecurity skills, complete my studies, an
 - Kali Linux
 - Cisco Packet Tracer
 - Nmap
+
+- ## 🌐 HTTP & Web Fundamentals
+
+Completed topics:
+
+- HTTP Request & Response
+- GET vs POST Methods
+- HTTP Headers
+  - Host
+  - User-Agent
+  - Accept
+  - Accept-Language
+  - Connection: keep-alive
+- HTTP Status Codes
+  - 200 OK
+  - 301 Moved Permanently
+  - 401 Unauthorized
+  - 403 Forbidden
+  - 404 Not Found
+  - 500 Internal Server Error
+- Cookies
+- Sessions
+- Session ID
+- Understanding authentication flow
+- Practical HTTP traffic analysis using Wireshark
 - Windows Terminal
 - VS Code (coming soon)
 
