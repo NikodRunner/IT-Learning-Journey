@@ -1,4 +1,4 @@
-# Hello, I'm Nikod 👋
+# Hello, I'm Nikod
 
 I am currently studying Computing Skills for the Workplace and working towards a career in IT.
 
@@ -73,9 +73,7 @@ I am currently studying Computing Skills for the Workplace and working towards a
 ## Current Goal
 
 Build practical IT, networking and cybersecurity skills, complete my studies, and transition into my first IT role.
-
 # Progress Update - June 2026
-
 ## Operating Systems
 - Windows 11
 - Kali Linux (VirtualBox)
@@ -125,10 +123,8 @@ Build practical IT, networking and cybersecurity skills, complete my studies, an
 - Cisco Packet Tracer
 - Nmap
 
-- ## 🌐 HTTP & Web Fundamentals
-
+- ## HTTP & Web Fundamentals
 Completed topics:
-
 - HTTP Request & Response
 - GET vs POST Methods
 - HTTP Headers
@@ -151,6 +147,32 @@ Completed topics:
 - Practical HTTP traffic analysis using Wireshark
 - Windows Terminal
 - VS Code (coming soon)
+
+ ## HTTP & Web Fundamentals
+### Completed Topics
+- HTTP Request & Response
+- HTTP Methods (GET & POST)
+- HTTP Request Headers
+  - Host
+  - User-Agent
+  - Accept
+  - Accept-Language
+  - Connection: keep-alive
+- HTTP Response Headers
+  - Content-Type
+  - Content-Length
+  - Server
+  - Set-Cookie
+- HTTP Status Codes
+  - 200 OK
+  - 301 Moved Permanently
+  - 401 Unauthorized
+  - 403 Forbidden
+  - 404 Not Found
+  - 500 Internal Server Error
+- Cookies
+- Sessions
+- Session IDs
 
 ## Current Goal
 Become a Junior Cybersecurity Professional.
