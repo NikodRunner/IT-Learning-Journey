@@ -1,0 +1,48 @@
+## Objective
+--------------
+Understand how web applications receive information through URL parameters.
+------------------
+## Topics Covered
+------------------
+- URL Structure
+- Query Parameters
+- Resource Identification
+- Search Parameters
+- Pagination
+- Language Parameters
+--------------------
+## Parameters Studied
+
+?id=
+
+?q=
+
+?page=
+
+&lang=
+
+&view=
+
+## Practical Understanding
+-------------------------
+- Identified resources using ID parameters
+- Understood search queries in URLs
+- Recognised pagination parameters
+- Analysed language parameters
+- Read URLs as structured requests instead of random text
+----------------------------
+## Key Learning
+
+Different URL parameters provide different instructions to the web application.
+
+Examples:
+
+id = object identifier
+
+q = search query
+
+page = page number
+
+lang = language
+
+view = content to display
