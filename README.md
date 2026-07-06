@@ -174,5 +174,36 @@ Completed topics:
 - Sessions
 - Session IDs
 
+## Burp Suite Fundamentals
+
+## Topics Covered
+
+- Burp Suite Overview
+- Proxy
+- Intercept
+- Forward
+- Repeater
+- HTTP Request Analysis
+- HTTP Response Analysis
+- Manual HTTP Requests
+- Request Modification
+- HTTP Response Codes
+- Request Headers
+- Response Headers
+- 
+### Practical Exercises
+
+ Captured HTTP Requests
+
+ Analysed HTTP Responses
+
+ Modified HTTP Methods (GET → POST)
+
+ Tested Host Header behaviour
+
+ Observed DNS Resolution Errors
+
+ Used Repeater to resend modified requests
+
 ## Current Goal
 Become a Junior Cybersecurity Professional.
