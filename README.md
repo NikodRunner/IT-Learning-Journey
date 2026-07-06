@@ -1,9 +1,7 @@
 # Hello, I'm Nikod
-
 I am currently studying Computing Skills for the Workplace and working towards a career in IT.
 
 ## About Me
-
 - Computing Skills for the Workplace student
 - Building practical IT and networking skills
 - Interested in Networking, Cybersecurity, IT Support and Web Development
@@ -17,7 +15,6 @@ I am currently studying Computing Skills for the Workplace and working towards a
 - Web Development
 
 ## Networking Progress
-
 ### Fundamentals
 
 - What is Networking
@@ -28,28 +25,23 @@ I am currently studying Computing Skills for the Workplace and working towards a
 - Default Gateway
 
 ### Network Services
-
 - DNS
 - DHCP
 - ARP
 
 ### Troubleshooting & Diagnostics
-
 - ICMP
 - Ping
 
 ### Security Concepts
-
 - MAC Spoofing
 
 ### Network Models
-
 - OSI Model
 
 ## Labs Completed
-
 ### Networking Lab #1
-
+-----------------------------------
 - IP Address
 - MAC Address
 - ICMP
@@ -57,28 +49,24 @@ I am currently studying Computing Skills for the Workplace and working towards a
 - DNS
 
 ### Networking Lab #2
-
 - Public IP vs Private IP
 - IPv4 vs IPv6
 - Default Gateway
-
+----------------------------------------
 ## Certifications
-
 ### Cisco Networking Academy
-
 - Getting Started with Cisco Packet Tracer
 - Completed: June 2026
 - Score: 100%
-
+-----------------------------------------------
 ## Current Goal
-
 Build practical IT, networking and cybersecurity skills, complete my studies, and transition into my first IT role.
 # Progress Update - June 2026
 ## Operating Systems
 - Windows 11
 - Kali Linux (VirtualBox)
 - Linux Terminal Basics
-
+--------------------------
 ## Networking
 - IP Address
 - MAC Address
@@ -94,7 +82,7 @@ Build practical IT, networking and cybersecurity skills, complete my studies, an
 - HTTP Request Methods (GET / POST)
 - HTTP Status Codes (2xx, 3xx, 4xx, 5xx)
 - OSI Model
-
+---------------------------
 ## Linux Skills
 - pwd
 - ls
@@ -114,7 +102,7 @@ Build practical IT, networking and cybersecurity skills, complete my studies, an
 - groups
 - pipes (|)
 - basic file permissions
-
+-------------------------
 ## Tools
 - GitHub
 - Git
@@ -122,7 +110,7 @@ Build practical IT, networking and cybersecurity skills, complete my studies, an
 - Kali Linux
 - Cisco Packet Tracer
 - Nmap
-
+----------------------------
 - ## HTTP & Web Fundamentals
 Completed topics:
 - HTTP Request & Response
@@ -147,7 +135,7 @@ Completed topics:
 - Practical HTTP traffic analysis using Wireshark
 - Windows Terminal
 - VS Code (coming soon)
-
+------------------------------
  ## HTTP & Web Fundamentals
 ### Completed Topics
 - HTTP Request & Response
@@ -173,11 +161,10 @@ Completed topics:
 - Cookies
 - Sessions
 - Session IDs
-
+-------------------------
 ## Burp Suite Fundamentals
-
 ## Topics Covered
-
+----------------------------
 - Burp Suite Overview
 - Proxy
 - Intercept
@@ -192,7 +179,7 @@ Completed topics:
 - Response Headers
 - 
 ### Practical Exercises
-
+----------------------------
  Captured HTTP Requests
 
  Analysed HTTP Responses
@@ -204,6 +191,23 @@ Completed topics:
  Observed DNS Resolution Errors
 
  Used Repeater to resend modified requests
+
+ Web Application Fundamentals
+----------------------
+### Completed
+----------------------
+- HTTP Methods
+- HTTP Headers
+- HTTP Status Codes
+- Cookies & Sessions
+- URL Structure
+- URL Parameters
+- Query Parameters
+- Burp Suite Proxy
+- Burp Suite Intercept
+- Burp Suite Repeater
+- HTTP Request Analysis
+- HTTP Response Analysis
 
 ## Current Goal
 Become a Junior Cybersecurity Professional.
