@@ -1,0 +1,72 @@
+# Burp Suite Fundamentals
+
+## Proxy
+
+Acts as a middleman between the browser and the server.
+
+Browser
+↓
+
+Burp
+
+↓
+
+Server
+
+---
+
+## Intercept
+
+Captures new HTTP requests before they reach the server.
+
+Allows inspection and modification of requests.
+
+---
+
+## Forward
+
+Sends the intercepted request to the destination server.
+
+---
+
+## Repeater
+
+Allows sending the same request multiple times.
+
+Useful for:
+
+- modifying headers
+- changing HTTP methods
+- testing server responses
+
+---
+
+## Practical Tests
+
+GET request
+
+
+
+200 OK
+
+POST request
+
+
+
+405 Method Not Allowed
+
+Host Header modified
+
+
+
+DNS Resolution Error
+
+---
+
+## Skills Learned
+
+- Reading HTTP Requests
+- Reading HTTP Responses
+- Understanding Response Headers
+- Testing Request Behaviour
+- Using Burp Repeater
