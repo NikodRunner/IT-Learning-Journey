@@ -209,5 +209,8 @@ Completed topics:
 - HTTP Request Analysis
 - HTTP Response Analysis
 
+## Cybersecurity Labs
+HTTP traffic interception, GET/POST, request body, cookies, Burp Proxy | Kali Linux, Docker, DVWA, Burp Suite | Completed |
+
 ## Current Goal
 Become a Junior Cybersecurity Professional.
