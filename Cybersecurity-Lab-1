@@ -1,0 +1,67 @@
+# Cybersecurity Lab 1 - DVWA, Docker and Burp Suite
+
+## Goal
+Set up a local vulnerable web application lab and understand how Burp Suite intercepts HTTP traffic between the browser and the server.
+
+## Tools Used
+- Kali Linux
+- Docker
+- DVWA
+- Burp Suite Community Edition
+- Burp Browser
+
+## What I Practiced
+- Pulling a Docker image
+- Running DVWA inside a Docker container
+- Mapping host and container ports
+- Accessing DVWA through localhost
+- Configuring Burp Proxy
+- Intercepting HTTP traffic
+- Understanding GET and POST requests
+- Finding form data inside the request body
+- Modifying a login request before forwarding it to the server
+
+## Key Commands
+```bash
+docker pull vulnerables/web-dvwa
+docker run --rm -it -p 8080:80 vulnerables/web-dvwa
+docker ps
+
+Port Mapping
+-p 8080:80
+This means:
+Kali host port 8080 -> DVWA container port 80
+DVWA was available at:
+http://127.0.0.1:8080
+Burp Proxy was configured on:
+127.0.0.1:8081
+HTTP Requests Observed
+Initial page request:
+GET / HTTP/1.1
+Host: 127.0.0.1:8080
+Login request:
+POST /login.php HTTP/1.1
+Host: 127.0.0.1:8080
+Content-Type: application/x-www-form-urlencoded
+Cookie: PHPSESSID=...; security=low
+Request body:
+username=admin&password=password&Login=Login&user_token=...
+What I Learned
+GET is used to request data from the server.
+POST is used to send data to the server.
+HTTP request goes from the browser/client to the server.
+HTTP response goes from the server to the browser/client.
+Content-Type describes the format of the data.
+The actual form data is stored in the request body.
+Burp Suite can intercept and modify a request before it reaches the server.
+Practical Test
+I changed this value in Burp Suite:
+username=admin
+to:
+username=administrator
+After forwarding the modified request, DVWA returned:
+Login failed
+Conclusion
+This lab confirmed that Burp Suite can intercept, inspect, and modify HTTP requests between the browser and the web server in a controlled local environment.
+Next Step
+Learn Burp Suite HTTP History and Repeater to analyze and resend captured requests more efficiently.
